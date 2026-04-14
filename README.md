@@ -32,7 +32,7 @@ This result summary card is one of many challenges from Frontend Mentor.
 
 ## Live Demo
 
-[View live project](https://ubiquitous-madeleine-154794.netlify.app/) <!-- Add your deployed link here -->
+[View live project](https://wonderful-ganache-aee088.netlify.app/) <!-- Add your deployed link here -->
 
 ## solution URL Link
 
