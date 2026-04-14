@@ -36,4 +36,4 @@ This result summary card is one of many challenges from Frontend Mentor.
 
 ## solution URL Link
 
-* [Solution URL](https://github.com/Abdull-Code/blog-preview) <!-- Add your solution URL here -->
+* [Solution URL](https://github.com/Abdull-Code/result-summary-card) <!-- Add your solution URL here -->
