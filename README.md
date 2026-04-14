@@ -1,4 +1,4 @@
-# Blog Preview Card Challenge
+# Result summary Card Challenge
 
 This result summary card is one of many challenges from Frontend Mentor.
 
