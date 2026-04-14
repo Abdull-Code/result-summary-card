@@ -1,0 +1,39 @@
+# Blog Preview Card Challenge
+
+This result summary card is one of many challenges from Frontend Mentor.
+
+## Challenge
+
+* [Frontend Mentor Challenge URL](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+* Built with: [HTML/CSS, etc.]
+
+## My Process
+
+* [Solution URL](https://github.com/Abdull-Code/blog-preview)
+* Built with semantic HTML5 and CSS3
+* Used Flexbox for layout (adjust based on what you used)
+* Mobile-first workflow
+* used media queries
+
+## Views
+
+| Device | Screenshot |
+|--------|------------|
+| Desktop | 
+
+![Desktop view](./images/desktop-design.jpg) 
+
+|
+| Mobile | 
+
+![Mobile view](./images/mobile-design.jpg) 
+
+|
+
+## Live Demo
+
+[View live project](https://ubiquitous-madeleine-154794.netlify.app/) <!-- Add your deployed link here -->
+
+## solution URL Link
+
+* [Solution URL](https://github.com/Abdull-Code/blog-preview) <!-- Add your solution URL here -->
