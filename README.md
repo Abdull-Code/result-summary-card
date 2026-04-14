@@ -9,7 +9,6 @@ This result summary card is one of many challenges from Frontend Mentor.
 
 ## My Process
 
-* [Solution URL](https://github.com/Abdull-Code/blog-preview)
 * Built with semantic HTML5 and CSS3
 * Used Flexbox for layout (adjust based on what you used)
 * Mobile-first workflow
